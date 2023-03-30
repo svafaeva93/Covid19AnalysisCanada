@@ -2,10 +2,10 @@
 
 Team members:
 
-Jibek Abdyramanova
-Samita Ahmed 
-Taruna Bansala
-Riley Slater 
+Jibek Abdyramanova,
+Samita Ahmed, 
+Taruna Bansala,
+Riley Slater, 
 Shakhnoza Vafaeva
 
 Project Description:
