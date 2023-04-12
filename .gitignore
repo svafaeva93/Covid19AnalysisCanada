@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.pptx
+*.ipynb
+Data_extraction_API.ipynb
