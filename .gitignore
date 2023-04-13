@@ -127,14 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-<<<<<<< HEAD
-*.pptx
-*.ipynb
-Data_extraction_API.ipynb
-=======
 ~$Covid 19 – PPT.pptx
-<<<<<<< HEAD
 Covid 19 – PPT.pptx
-=======
->>>>>>> Samita
->>>>>>> main
